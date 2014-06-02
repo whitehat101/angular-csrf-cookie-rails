@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["jebler@gmail.com"]
   spec.summary       = %q{Configure Rails to set AngularJS's XSRF-TOKEN cookie.}
   spec.description   = %q{Zero-Configuration XSRF protection with Rails and AngularJS}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/whitehat101/angular-csrf-cookie-rails"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
